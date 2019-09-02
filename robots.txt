@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://duarievout.bai.uno/sitemap.xml
